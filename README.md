@@ -7,8 +7,8 @@
 - 😄 Pronouns: she/her
 
 
-Skills: SQL / Python / Data analysis / Business Analysis 
 
+Skills: SQL / Python / Data analysis / Business Analysis 
 ## 
 <div>
   <a href="https://github.com/marimourao">
