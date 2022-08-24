@@ -12,7 +12,7 @@ Skills: SQL / Python / Data analysis / Business Analysis
 ## 
 <div>
   <a href="https://github.com/marimourao">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marimourao&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marimourao&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
 
 </div>
 
