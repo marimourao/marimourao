@@ -1,8 +1,8 @@
 ## Hello, I'm Mari
 
 
-- 🔭 I’m currently work as an Data Analyst
-- 🌱 I’m currently learning SQL and Python
+- 🔭 I work as a Data Analyst
+- 🌱 I’m learning SQL and Python
 - 👯 I’m looking to collaborate on projects using Python
 - 😄 Pronouns: she/her
 
