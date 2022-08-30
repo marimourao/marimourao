@@ -8,8 +8,20 @@
 
 
 
-Skills: SQL / Python / Data analysis / Business Analysis 
-## 
+<br>
+
+<h2 align="left">Languages and Tools:</h2>
+
+![PowerBI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
+![Tableau](https://img.shields.io/badge/-Tableau-black?style=plastic&logo=Tableau)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
+
+<br>
+
+
+
 <div>
   <a href="https://github.com/marimourao">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marimourao&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
@@ -17,7 +29,7 @@ Skills: SQL / Python / Data analysis / Business Analysis
 </div>
 
 
-##
+
  
 <div> 
   <a href = "mailto:soaresmourao.m@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -26,3 +38,8 @@ Skills: SQL / Python / Data analysis / Business Analysis
   
   
 </div>
+
+
+
+
+
